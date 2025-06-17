@@ -52,8 +52,8 @@ Each project demonstrates my ability to integrate ML into scalable full-stack ar
 
 ### 📄 Résumé & Contact
 
-- [📄 View My CV (PDF)](./CV%20Professionnel%20Comptable%20Minimaliste%20Bleu.pdf)
-- [🔗 LinkedIn](https://www.linkedin.com/in/zineb-saraoui) <!-- Replace with your actual LinkedIn link -->
+- [📄 View My CV (PDF)](https://github.com/ZinebSaraoui/ZinebSaraoui/blob/868e991a545176a5db0b1ae6609d6996e1adb0d9/Zineb-Saraoui.pdf)
+- [🔗 LinkedIn](https://www.linkedin.com/in/zineb-saraoui-6a86852b6)
 
 ---
 
