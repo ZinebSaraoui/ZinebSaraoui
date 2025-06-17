@@ -3,7 +3,7 @@
 <p align="center">
 🎓 Full-Stack Developer & AI/Big Data Engineering Student <br>
 💡 Passionate about building intelligent, scalable, and secure software solutions <br>
-🌍 Bilingual: English | Français
+🌍 Trilingual: English | Français | العربية
 </p>
 
 ---
