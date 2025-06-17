@@ -13,10 +13,12 @@
 I'm Zineb, an enthusiastic software engineering student with a solid academic foundation and hands-on experience in:
 
 - **Full-Stack Web Development** (React, Node.js, Flask)
-- **AI & Machine Learning** (Computer Vision, Deep Learning, Model Integration)
-- **Big Data Technologies** and cloud-oriented solutions
+- **AI & Machine Learning** (Deep Learning, Model Integration)
+- **Big Data Technologies** 
 
-I’m currently studying *Software and Information Systems Engineering* and have also earned a diploma in *Business Intelligence and Data Science*. My projects often combine backend logic, modern frontend design, and real-world AI applications.
+I’m currently pursuing a Master’s in Big Data and IOT at INPT . I hold a Professional Bachelor's Degree in Software and Information Systems Engineering and a University Diploma in Business Intelligence and Data Science.
+My projects combine backend logic, modern frontend design, and real-world AI applications — all driven by a passion for scalable, intelligent systems.
+
 
 ---
 
@@ -33,13 +35,18 @@ Each project demonstrates my ability to integrate ML into scalable full-stack ar
 
 ---
 
-### 🛠️ Tech Stack & Interests
+### 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript, HTML/CSS, SQL
-- **Frameworks**: Flask, React, Node.js, Express
-- **AI & Tools**: Scikit-learn, OpenCV, TensorFlow (beginner), NumPy, Pandas
-- **Databases**: MongoDB, MySQL, SQLite
-- **Tools**: Git, Docker, Figma, Postman
+- **Programmation** : C , Python , Java .  
+- **Web Dev** : HTML , CSS , JS , Xml , Node.js React.js Bootstrap.  
+- **Framework** : Flask , Django , Express.js J2EE Spring Boot , Scrapy.  
+- **Databases** : SQL , Mysql , Oracle , MongoDb PL/SQL.  
+- **Business Intelligence** : Data Warehouse, Pentaho Data Integration.  
+- **Data Analysis & Science** : Machine learning Data Mining , Web Scraping.  
+- **Design & Modeling** : UML , Merise .  
+- **System & Network** : System Administration Network Administration.  
+- **Office & Project Tools** : Microsoft Office (Word , Excel, PowerPoint) , Microsoft Project
+
 
 ---
 
@@ -53,7 +60,7 @@ Each project demonstrates my ability to integrate ML into scalable full-stack ar
 ### ✨ Fun Facts
 
 - 🧠 I enjoy solving real-world problems through smart system design.
-- 🌱 Currently learning more about **cloud computing** and **Raspberry Pi integration**.
+- 📚 I actively engage in research reading across AI, data engineering, and software systems as part of my research-focused Master's.
 - 🤝 Always open to collaboration on impactful tech projects.
 
 ---
